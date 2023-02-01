@@ -119,6 +119,7 @@ button:focus { outline: none; }
 	vertical-align: middle;
     width: 130px;
     height: 40px;
+	padding-right: 1.5rem;
 }
 
 .cd-slider-nav .nav-item.selected .nav-link,
@@ -777,7 +778,7 @@ figure.effect-ruby:hover img {
 	.cd-slider-nav a,
 	.navbar-nav .nav-link {
 		font-size: 1.2em;
-		width: 160px;
+		width: 200px;
 		height: 110px;
 	}
 	.cd-slider-nav a.navbar-brand { font-size: 3.5rem; }
